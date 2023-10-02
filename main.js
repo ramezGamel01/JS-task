@@ -126,7 +126,7 @@ numOrNot("12");
 
 //Write a JavaScript function to get the current date
 
-let currentDate = new month();
+let currentDate = new Date();
 
 function currDate() {
   return currentDate;
